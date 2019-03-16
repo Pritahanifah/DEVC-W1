@@ -1,0 +1,22 @@
+.div {
+    color: rgb(245, 243, 244);
+    background: rgb(115, 195, 241);
+    text-align: center;
+}
+
+p {
+    color: green;
+    text-align: center;
+    border: 1px solid powderblue;
+    padding: 30px;
+}
+
+.lightblue{
+    margin: 10px;
+    color: lightblue;
+}
+
+.data{
+    text-align: center;
+}
+
